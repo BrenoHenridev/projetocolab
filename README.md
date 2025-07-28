@@ -43,7 +43,6 @@ Gerar um gráfico com o preço médio de venda da gasolina na cidade de São Pau
 
 ## Resultado
 
-Gráfico salvo com o título:  
 **“Preço da gasolina em São Paulo - Julho/2021”**
 ![Gráfico de Preço da Gasolina](gasolina.png)
 ---
